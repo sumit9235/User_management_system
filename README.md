@@ -5,4 +5,5 @@ Assignment for Experienced NodeJS developer role
 -*** A proper swagger documentation has been provided please visit BaseURL/api-docs ***-
 
 Frontend netlify URL:- https://quadb-user-management-system.netlify.app/
-Backend deployeed url :- https://fuzzy-ox-garters.cyclic.app
+
+Backend deployed url :- https://fuzzy-ox-garters.cyclic.app
